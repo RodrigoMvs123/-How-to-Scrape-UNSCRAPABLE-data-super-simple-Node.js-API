@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=YRRW4o-BjEM
 https://raw.githubusercontent.com/RodrigoMvs123/-How-to-Scrape-UNSCRAPABLE-data-super-simple-Node.js-API/main/README.md
 
 
-
+https://github.com/RodrigoMvs123/-How-to-Scrape-UNSCRAPABLE-data-super-simple-Node.js-API/blame/main/README.md
 
 
 https://brightdata.com/
